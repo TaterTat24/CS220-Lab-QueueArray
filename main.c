@@ -1,7 +1,7 @@
 /** 
  * ================================================================
- * Name: 
- * Section:
+ * Name: Benjamin Tat
+ * Section: T6
  * Project: Queue ADT implemented with C array
  * =================================================================
  *

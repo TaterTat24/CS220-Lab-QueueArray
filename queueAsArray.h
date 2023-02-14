@@ -1,7 +1,7 @@
 /** queueAsArray.h
  * ===========================================================
- * Name: CS220
- * Section: n/a
+ * Name: Benjamin Tat
+ * Section: T6
  * Project: Lab11 - Queue ADT implemented with C array
  * ===========================================================
  */
